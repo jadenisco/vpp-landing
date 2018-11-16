@@ -8,12 +8,11 @@ themesdir = "./themes"
 pygmentsCodeFences = true
 pygmentsStyle = "monokailight"
 
-# jad
-# type = "page"
-
 defaultContentLanguage = "en"
 defaultContentLanguageInSubdir= false
 enableMissingTranslationPlaceholders = false
+
+publishDir = "docs"
 
 
 # [Languages]
